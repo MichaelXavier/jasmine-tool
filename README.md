@@ -1,3 +1,6 @@
+# A Note on This Branch
+This branch has some pretty gruesome hacks in it to get this project to a workable state for what I need it. I don't plan on submitting pull requests to upstream for this reason, nor do I plan on continued development on this project once it becomes "good enough" for me and my use case.
+
 # Jasmine Commandline Tool
 I've been working with jasmine a bit for client side BDD. I like it but didn't like the gem too much so I decided to give a try at rolling my own tool written for node.js. Will publish to npm soon.
 
