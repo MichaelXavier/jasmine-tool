@@ -9,6 +9,8 @@ html
     - each external in externals
       script(type='text/javascript', src=external)
     title Jasmine Spec Server
+    - each helper in helpers
+      script(type='text/javascript', src=helper)
     - each src in srcs
       script(type='text/javascript', src=src)
     - each spec in specs
